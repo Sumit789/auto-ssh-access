@@ -1,0 +1,8 @@
+[instances]
+dev-server-1
+dev-server-2
+dev-server-3
+
+[instances:vars]
+user_name=sumit.katiyar
+user_desc="Development Team"
